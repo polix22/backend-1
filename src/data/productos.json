@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "title": "Manzana",
+    "description": "Fruta crujiente y jugosa",
+    "price": "599",
+    "img": "",
+    "code": "FRU001",
+    "stock": "50"
+  },
+  {
+    "id": "2",
+    "title": "Cebolla",
+    "description": "Verdura blanca y sabrosa",
+    "price": "279",
+    "img": "",
+    "code": "VEG001",
+    "stock": "75"
+  },
+  {
+    "id": "3",
+    "title": "Banana",
+    "description": "Fruta amarilla y dulce",
+    "price": "899",
+    "img": "",
+    "code": "FRU002",
+    "stock": "30"
+  },
+  {
+    "id": "4",
+    "title": "Tomate",
+    "description": "Verdura roja y sabrosa",
+    "price": "649",
+    "img": "",
+    "code": "VEG002",
+    "stock": "60"
+  },
+  {
+    "id": "5",
+    "title": "Zanahoria",
+    "description": "Verdura naranja y crocante",
+    "price": "200",
+    "img": "",
+    "code": "VEG003",
+    "stock": "75"
+  },
+  {
+    "id": "6",
+    "title": "Naranja",
+    "description": "Fruta cítrica y jugosa",
+    "price": "500",
+    "img": "",
+    "code": "FRU003",
+    "stock": "40"
+  },
+  {
+    "id": "7",
+    "title": "Brócoli",
+    "description": "Verdura verde y nutritiva",
+    "price": "350",
+    "img": "",
+    "code": "VEG004",
+    "stock": "60"
+  },
+  {
+    "id": "8",
+    "title": "Uva",
+    "description": "Fruta dulce y refrescante",
+    "price": "800",
+    "img": "",
+    "code": "FRU004",
+    "stock": "25"
+  },
+  {
+    "id": "9",
+    "title": "Frutilla",
+    "description": "Fruta roja y dulce",
+    "price": "1200",
+    "img": "",
+    "code": "FRU005",
+    "stock": "35"
+  },
+  {
+    "id": "10",
+    "title": "Papa",
+    "description": "Verdura versátil y nutritiva",
+    "price": "599",
+    "img": "",
+    "code": "VEG005",
+    "stock": "65"
+  }
+]
